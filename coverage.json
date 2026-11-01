@@ -1,0 +1,322 @@
+{
+  "accessedAt": "2026-11-01",
+  "yearStart": 1988,
+  "yearEnd": 2026,
+  "ongoingYear": 2026,
+  "count": 886,
+  "years": [
+    {
+      "year": 1988,
+      "count": 20,
+      "imdb": 20,
+      "douban": 11,
+      "gross": 16,
+      "awards": 6
+    },
+    {
+      "year": 1989,
+      "count": 20,
+      "imdb": 20,
+      "douban": 13,
+      "gross": 17,
+      "awards": 7
+    },
+    {
+      "year": 1990,
+      "count": 20,
+      "imdb": 20,
+      "douban": 14,
+      "gross": 19,
+      "awards": 6
+    },
+    {
+      "year": 1991,
+      "count": 20,
+      "imdb": 20,
+      "douban": 13,
+      "gross": 15,
+      "awards": 5
+    },
+    {
+      "year": 1992,
+      "count": 20,
+      "imdb": 20,
+      "douban": 15,
+      "gross": 17,
+      "awards": 7
+    },
+    {
+      "year": 1993,
+      "count": 20,
+      "imdb": 20,
+      "douban": 15,
+      "gross": 19,
+      "awards": 6
+    },
+    {
+      "year": 1994,
+      "count": 20,
+      "imdb": 20,
+      "douban": 18,
+      "gross": 16,
+      "awards": 6
+    },
+    {
+      "year": 1995,
+      "count": 21,
+      "imdb": 21,
+      "douban": 20,
+      "gross": 18,
+      "awards": 7
+    },
+    {
+      "year": 1996,
+      "count": 20,
+      "imdb": 20,
+      "douban": 18,
+      "gross": 17,
+      "awards": 7
+    },
+    {
+      "year": 1997,
+      "count": 20,
+      "imdb": 20,
+      "douban": 19,
+      "gross": 18,
+      "awards": 8
+    },
+    {
+      "year": 1998,
+      "count": 20,
+      "imdb": 20,
+      "douban": 16,
+      "gross": 18,
+      "awards": 4
+    },
+    {
+      "year": 1999,
+      "count": 20,
+      "imdb": 20,
+      "douban": 19,
+      "gross": 17,
+      "awards": 5
+    },
+    {
+      "year": 2000,
+      "count": 20,
+      "imdb": 20,
+      "douban": 15,
+      "gross": 19,
+      "awards": 6
+    },
+    {
+      "year": 2001,
+      "count": 22,
+      "imdb": 22,
+      "douban": 21,
+      "gross": 21,
+      "awards": 10
+    },
+    {
+      "year": 2002,
+      "count": 21,
+      "imdb": 21,
+      "douban": 20,
+      "gross": 19,
+      "awards": 7
+    },
+    {
+      "year": 2003,
+      "count": 21,
+      "imdb": 21,
+      "douban": 21,
+      "gross": 21,
+      "awards": 5
+    },
+    {
+      "year": 2004,
+      "count": 22,
+      "imdb": 22,
+      "douban": 20,
+      "gross": 22,
+      "awards": 10
+    },
+    {
+      "year": 2005,
+      "count": 22,
+      "imdb": 22,
+      "douban": 15,
+      "gross": 21,
+      "awards": 7
+    },
+    {
+      "year": 2006,
+      "count": 23,
+      "imdb": 23,
+      "douban": 18,
+      "gross": 19,
+      "awards": 10
+    },
+    {
+      "year": 2007,
+      "count": 22,
+      "imdb": 22,
+      "douban": 21,
+      "gross": 21,
+      "awards": 7
+    },
+    {
+      "year": 2008,
+      "count": 22,
+      "imdb": 22,
+      "douban": 19,
+      "gross": 22,
+      "awards": 9
+    },
+    {
+      "year": 2009,
+      "count": 21,
+      "imdb": 21,
+      "douban": 17,
+      "gross": 20,
+      "awards": 7
+    },
+    {
+      "year": 2010,
+      "count": 22,
+      "imdb": 22,
+      "douban": 18,
+      "gross": 20,
+      "awards": 8
+    },
+    {
+      "year": 2011,
+      "count": 20,
+      "imdb": 20,
+      "douban": 19,
+      "gross": 20,
+      "awards": 5
+    },
+    {
+      "year": 2012,
+      "count": 21,
+      "imdb": 21,
+      "douban": 16,
+      "gross": 19,
+      "awards": 9
+    },
+    {
+      "year": 2013,
+      "count": 22,
+      "imdb": 22,
+      "douban": 20,
+      "gross": 21,
+      "awards": 7
+    },
+    {
+      "year": 2014,
+      "count": 30,
+      "imdb": 30,
+      "douban": 26,
+      "gross": 29,
+      "awards": 6
+    },
+    {
+      "year": 2015,
+      "count": 24,
+      "imdb": 24,
+      "douban": 20,
+      "gross": 24,
+      "awards": 5
+    },
+    {
+      "year": 2016,
+      "count": 27,
+      "imdb": 27,
+      "douban": 24,
+      "gross": 26,
+      "awards": 5
+    },
+    {
+      "year": 2017,
+      "count": 28,
+      "imdb": 28,
+      "douban": 22,
+      "gross": 28,
+      "awards": 5
+    },
+    {
+      "year": 2018,
+      "count": 27,
+      "imdb": 27,
+      "douban": 18,
+      "gross": 27,
+      "awards": 6
+    },
+    {
+      "year": 2019,
+      "count": 26,
+      "imdb": 26,
+      "douban": 18,
+      "gross": 26,
+      "awards": 6
+    },
+    {
+      "year": 2020,
+      "count": 25,
+      "imdb": 25,
+      "douban": 12,
+      "gross": 25,
+      "awards": 5
+    },
+    {
+      "year": 2021,
+      "count": 26,
+      "imdb": 26,
+      "douban": 14,
+      "gross": 26,
+      "awards": 6
+    },
+    {
+      "year": 2022,
+      "count": 28,
+      "imdb": 28,
+      "douban": 28,
+      "gross": 26,
+      "awards": 7
+    },
+    {
+      "year": 2023,
+      "count": 27,
+      "imdb": 27,
+      "douban": 23,
+      "gross": 27,
+      "awards": 4
+    },
+    {
+      "year": 2024,
+      "count": 25,
+      "imdb": 25,
+      "douban": 10,
+      "gross": 24,
+      "awards": 4
+    },
+    {
+      "year": 2025,
+      "count": 27,
+      "imdb": 27,
+      "douban": 14,
+      "gross": 27,
+      "awards": 2
+    },
+    {
+      "year": 2026,
+      "count": 24,
+      "imdb": 24,
+      "douban": 11,
+      "gross": 24,
+      "awards": 0
+    }
+  ],
+  "sourceNotes": "公开来源访问日期；不是所有来源的更新时间。2026为年内数据，评分非实时。"
+}
