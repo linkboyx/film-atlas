@@ -23066,12 +23066,13 @@
       },
       "boxOffice": {
         "usd": 210000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$210 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$210 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $210,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 210000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -23141,12 +23142,13 @@
       },
       "boxOffice": {
         "usd": 104900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$104.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$104.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $104,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Training_Day",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 104900000,
+        "comparable": true
       },
       "awards": [
         {
@@ -23522,12 +23524,13 @@
       },
       "boxOffice": {
         "usd": 368800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$368.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$368.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $368,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Jurassic_Park_III",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 368800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -23602,12 +23605,13 @@
       },
       "boxOffice": {
         "usd": 432000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$432 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$432 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $432,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Die_Another_Day",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 432000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -23755,12 +23759,13 @@
       },
       "boxOffice": {
         "usd": 383200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$383.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$383.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $383,257,136；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 383257136,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -24233,12 +24238,13 @@
       },
       "boxOffice": {
         "usd": 883400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$883.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$883.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $878,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 878000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -24399,12 +24405,13 @@
       },
       "boxOffice": {
         "usd": 10200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$10.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$10.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $10,163,547；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Twilight_Samurai",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 10163547,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -24473,12 +24480,13 @@
       },
       "boxOffice": {
         "usd": 352100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$352.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$352.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $352,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Catch_Me_If_You_Can",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 352000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -24547,12 +24555,13 @@
       },
       "boxOffice": {
         "usd": 30600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$30.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$30.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $30,500,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 30500000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -24622,12 +24631,13 @@
       },
       "boxOffice": {
         "usd": 358400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$358.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$358.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $358,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Minority_Report_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 358000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -24700,12 +24710,13 @@
       },
       "boxOffice": {
         "usd": 108800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$108.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$108.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $108,846,072；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hours_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 108846072,
+        "comparable": true
       },
       "awards": [
         {
@@ -24949,12 +24960,13 @@
       },
       "boxOffice": {
         "usd": 177400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$177.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$177.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $177,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Hero_(2002_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 177000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -25027,12 +25039,13 @@
       },
       "boxOffice": {
         "usd": 306800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$306.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$306.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $306,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Chicago_(2002_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 306800000,
+        "comparable": true
       },
       "awards": [
         {
@@ -25129,12 +25142,13 @@
       },
       "boxOffice": {
         "usd": 810900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$810.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$810.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $825,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 825800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -25208,12 +25222,13 @@
       },
       "boxOffice": {
         "usd": 945100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$945.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$945.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $942,300,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Two_Towers",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 942300000,
+        "comparable": true
       },
       "awards": [
         {
@@ -25528,12 +25543,13 @@
       },
       "boxOffice": {
         "usd": 123200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$123.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$123.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $123,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Big_Fish",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 123000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -25674,12 +25690,13 @@
       },
       "boxOffice": {
         "usd": 940300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$940.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$940.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $940,300,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Finding_Nemo",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 940300000,
+        "comparable": true
       },
       "awards": [
         {
@@ -25757,12 +25774,13 @@
       },
       "boxOffice": {
         "usd": 741800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$741.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$741.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $741,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 741800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -25833,12 +25851,13 @@
       },
       "boxOffice": {
         "usd": 427300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$427.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$427.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $427,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 427000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -26003,12 +26022,13 @@
       },
       "boxOffice": {
         "usd": 17600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$17.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$17.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $17,617,021；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 17617021,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -26078,12 +26098,13 @@
       },
       "boxOffice": {
         "usd": 485000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$485 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$485 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $485,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Bruce_Almighty",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 485000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -26157,12 +26178,13 @@
       },
       "boxOffice": {
         "usd": 119000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$119 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$119 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $119,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Lost_in_Translation_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 119000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -26312,12 +26334,13 @@
       },
       "boxOffice": {
         "usd": 180900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$180.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$180.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $180,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Kill_Bill%3A_Volume_1",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 180900000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -26389,12 +26412,13 @@
       },
       "boxOffice": {
         "usd": 156600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$156.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$156.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $156,822,020；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Mystic_River_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 156822020,
+        "comparable": true
       },
       "awards": [
         {
@@ -26549,12 +26573,13 @@
       },
       "boxOffice": {
         "usd": 252600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$252.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$252.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $252,600,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Love_Actually",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 252600000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -26767,12 +26792,13 @@
       },
       "boxOffice": {
         "usd": 433400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$433.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$433.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $433,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Terminator_3%3A_Rise_of_the_Machines",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 433400000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -26928,12 +26954,13 @@
       },
       "boxOffice": {
         "usd": 407700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$407.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$407.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $407,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/X2_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 407000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -27006,12 +27033,13 @@
       },
       "boxOffice": {
         "usd": 217000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$217 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$217 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $217,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Million_Dollar_Baby",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 217000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -27180,12 +27208,13 @@
       },
       "boxOffice": {
         "usd": 631600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$631.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$631.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $632,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Incredibles",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 632000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -27362,12 +27391,13 @@
       },
       "boxOffice": {
         "usd": 83600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$83.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$83.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $83,580,890；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Chorus_(2004_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 83580890,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -27437,12 +27467,13 @@
       },
       "boxOffice": {
         "usd": 214000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$214 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$214 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $214,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Aviator_(2004_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 214000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -27612,12 +27643,13 @@
       },
       "boxOffice": {
         "usd": 933800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$933.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$933.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $933,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Shrek_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 933800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -27775,12 +27807,13 @@
       },
       "boxOffice": {
         "usd": 810600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$810.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$810.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $808,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 808000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -27849,12 +27882,13 @@
       },
       "boxOffice": {
         "usd": 552600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$552.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$552.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $552,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Day_After_Tomorrow",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 552000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -27923,12 +27957,13 @@
       },
       "boxOffice": {
         "usd": 222400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$222.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$222.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $222,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Fahrenheit_9%2F11",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 222000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -27996,12 +28031,13 @@
       },
       "boxOffice": {
         "usd": 329000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$329 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$329 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $329,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 329000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -28073,12 +28109,13 @@
       },
       "boxOffice": {
         "usd": 33900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$33.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$33.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $33,882,243；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Hotel_Rwanda",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 33882243,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -28148,12 +28185,13 @@
       },
       "boxOffice": {
         "usd": 72900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$72.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$72.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $72,870,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 72870000,
+        "comparable": true
       },
       "awards": [
         {
@@ -28321,12 +28359,13 @@
       },
       "boxOffice": {
         "usd": 497400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$497.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$497.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $497,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Troy_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 497000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -28469,12 +28508,13 @@
       },
       "boxOffice": {
         "usd": 622300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$622.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$622.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $622,300,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 622300000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -28618,12 +28658,13 @@
       },
       "boxOffice": {
         "usd": 797000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$797 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$797 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $797,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Spider-Man_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 797000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -28798,12 +28839,13 @@
       },
       "boxOffice": {
         "usd": 131900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$131.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$131.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $131,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 131900000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -28874,12 +28916,13 @@
       },
       "boxOffice": {
         "usd": 375600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$375.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$375.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $375,600,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Batman_Begins",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 375600000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -28949,12 +28992,13 @@
       },
       "boxOffice": {
         "usd": 475800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$475.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$475.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $475,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 475000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -29023,12 +29067,13 @@
       },
       "boxOffice": {
         "usd": 179100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$179.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$179.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $178,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Brokeback_Mountain",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 178000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -29110,12 +29155,13 @@
       },
       "boxOffice": {
         "usd": 900400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$900.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$900.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $895,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 895000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -29400,12 +29446,13 @@
       },
       "boxOffice": {
         "usd": 556900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$556.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$556.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $556,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/King_Kong_(2005_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 556900000,
+        "comparable": true
       },
       "awards": [
         {
@@ -29486,12 +29533,13 @@
       },
       "boxOffice": {
         "usd": 49900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$49.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$49.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $50,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Capote_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 50000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -29712,12 +29760,13 @@
       },
       "boxOffice": {
         "usd": 131000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$131 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$131 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $131,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Munich_(2005_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 131000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -29779,12 +29828,13 @@
       },
       "boxOffice": {
         "usd": 745000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$745 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$745 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $745,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia%3A_The_Lion%2C_the_Witch_and_the_Wardrobe",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 745000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -29856,12 +29906,13 @@
       },
       "boxOffice": {
         "usd": 85600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$85.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$85.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $85,306,374；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Match_Point",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 85306374,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -29924,12 +29975,13 @@
       },
       "boxOffice": {
         "usd": 487300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$487.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$487.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $487,300,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Mr._%26_Mrs._Smith_(2005_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 487300000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -29996,12 +30048,13 @@
       },
       "boxOffice": {
         "usd": 604000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$604 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$604 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $604,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/War_of_the_Worlds_(2005_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 604000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30069,12 +30122,13 @@
       },
       "boxOffice": {
         "usd": 54600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$54.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$54.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $54,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Good_Night%2C_and_Good_Luck",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 54000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30209,12 +30263,13 @@
       },
       "boxOffice": {
         "usd": 16200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$16.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$16.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $16,197,824；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Cach%C3%A9_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 16197824,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30278,12 +30333,13 @@
       },
       "boxOffice": {
         "usd": 158700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$158.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$158.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $158,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Sin_City_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 158700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30415,12 +30471,13 @@
       },
       "boxOffice": {
         "usd": 606000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$606 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$606 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $606,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Casino_Royale_(2006_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 606000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30487,12 +30544,13 @@
       },
       "boxOffice": {
         "usd": 667000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$667 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$667 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $667,094,506；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Ice_Age%3A_The_Meltdown",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 667094506,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30559,12 +30617,13 @@
       },
       "boxOffice": {
         "usd": 574500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$574.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$574.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $574,500,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Night_at_the_Museum",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 574500000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -30838,12 +30897,13 @@
       },
       "boxOffice": {
         "usd": 398500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$398.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$398.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $398,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_III",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 398000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -31053,12 +31113,13 @@
       },
       "boxOffice": {
         "usd": 1066000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.066 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.066 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,066,179,725；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_Dead_Man's_Chest",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1066179725,
+        "comparable": true
       },
       "awards": [
         {
@@ -31283,12 +31344,13 @@
       },
       "boxOffice": {
         "usd": 77300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$77.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$77.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $77,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Lives_of_Others",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 77000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -31365,12 +31427,13 @@
       },
       "boxOffice": {
         "usd": 70500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$70.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$70.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $69,612,678；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Children_of_Men",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 69612678,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -31434,12 +31497,13 @@
       },
       "boxOffice": {
         "usd": 484000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$484 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$484 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $484,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Cars_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 484000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -31506,12 +31570,13 @@
       },
       "boxOffice": {
         "usd": 180600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$180.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$180.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $180,600,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 180600000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -31575,12 +31640,13 @@
       },
       "boxOffice": {
         "usd": 135300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$135.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$135.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $135,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Babel_(2006_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 135000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -31806,12 +31872,13 @@
       },
       "boxOffice": {
         "usd": 171700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$171.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$171.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $171,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Blood_Diamond",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 171700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -31958,12 +32025,13 @@
       },
       "boxOffice": {
         "usd": 109000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$109 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$109 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $109,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Prestige_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 109000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32029,12 +32097,13 @@
       },
       "boxOffice": {
         "usd": 460000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$460 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$460 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $460,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/X-Men%3A_The_Last_Stand",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 460000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32096,12 +32165,13 @@
       },
       "boxOffice": {
         "usd": 709700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$709.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$709.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $709,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Transformers_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 709700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32312,12 +32382,13 @@
       },
       "boxOffice": {
         "usd": 808300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$808.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$808.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $808,300,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Shrek_the_Third",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 808300000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32382,12 +32453,13 @@
       },
       "boxOffice": {
         "usd": 459000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$459 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$459 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $459,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/National_Treasure%3A_Book_of_Secrets",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 459000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32449,12 +32521,13 @@
       },
       "boxOffice": {
         "usd": 942900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$942.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$942.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $942,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 942000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32522,12 +32595,13 @@
       },
       "boxOffice": {
         "usd": 56800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$56.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$56.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $56,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Into_the_Wild_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 56000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32590,12 +32664,13 @@
       },
       "boxOffice": {
         "usd": 963400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$963.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$963.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $963,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_At_World's_End",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 963400000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -32738,12 +32813,13 @@
       },
       "boxOffice": {
         "usd": 171600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$171.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$171.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $171,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 171000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -32824,12 +32900,13 @@
       },
       "boxOffice": {
         "usd": 623700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$623.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$623.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $623,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Ratatouille_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 623700000,
+        "comparable": true
       },
       "awards": [
         {
@@ -32975,12 +33052,13 @@
       },
       "boxOffice": {
         "usd": 67100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$67.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$67.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $67,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Lust%2C_Caution",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 67000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -33050,12 +33128,13 @@
       },
       "boxOffice": {
         "usd": 84700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$84.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$84.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $84,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Zodiac_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 84700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -33121,12 +33200,13 @@
       },
       "boxOffice": {
         "usd": 131000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$131 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$131 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $131,016,624；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Atonement_(2007_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 131016624,
+        "comparable": true
       },
       "awards": [
         {
@@ -33194,12 +33274,13 @@
       },
       "boxOffice": {
         "usd": 9800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$9.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$9.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $9,840,338；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/4_Months%2C_3_Weeks_and_2_Days",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 9840338,
+        "comparable": true
       },
       "awards": [
         {
@@ -33412,12 +33493,13 @@
       },
       "boxOffice": {
         "usd": 536400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$536.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$536.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $536,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Simpsons_Movie",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 536400000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -33482,12 +33564,13 @@
       },
       "boxOffice": {
         "usd": 76200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$76.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$76.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $76,200,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/There_Will_Be_Blood",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 76200000,
+        "comparable": true
       },
       "awards": [
         {
@@ -33625,12 +33708,13 @@
       },
       "boxOffice": {
         "usd": 896300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$896.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$896.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $895,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Spider-Man_3",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 895900000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -33699,12 +33783,13 @@
       },
       "boxOffice": {
         "usd": 589600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$589.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$589.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $589,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Quantum_of_Solace",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 589000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -33860,12 +33945,13 @@
       },
       "boxOffice": {
         "usd": 1009000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.009 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.009 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $997,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Dark_Knight",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 997000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -34019,12 +34105,13 @@
       },
       "boxOffice": {
         "usd": 49900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$49.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$49.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $50,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hurt_Locker",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 50000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -34185,12 +34272,13 @@
       },
       "boxOffice": {
         "usd": 585800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$585.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$585.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $585,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 585800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -34260,12 +34348,13 @@
       },
       "boxOffice": {
         "usd": 632000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$632 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$632 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $632,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 632000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -34334,12 +34423,13 @@
       },
       "boxOffice": {
         "usd": 11100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$11.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$11.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $11,125,849；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Waltz_with_Bashir",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 11125849,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -34397,12 +34487,13 @@
       },
       "boxOffice": {
         "usd": 113400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$113.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$113.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $113,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Changeling_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 113400000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -34465,12 +34556,13 @@
       },
       "boxOffice": {
         "usd": 532500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$532.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$532.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $532,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/WALL-E",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 532000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -34548,12 +34640,13 @@
       },
       "boxOffice": {
         "usd": 108900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$108.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$108.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $108,901,967；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Reader_(2008_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 108901967,
+        "comparable": true
       },
       "awards": [
         {
@@ -34623,12 +34716,13 @@
       },
       "boxOffice": {
         "usd": 708200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$708.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$708.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $708,200,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 708200000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -34694,12 +34788,13 @@
       },
       "boxOffice": {
         "usd": 604000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$604 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$604 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $604,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Madagascar%3A_Escape_2_Africa",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 604000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -34762,12 +34857,13 @@
       },
       "boxOffice": {
         "usd": 54600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$54.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$54.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $54,600,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Milk_(2008_American_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 54600000,
+        "comparable": true
       },
       "awards": [
         {
@@ -34838,12 +34934,13 @@
       },
       "boxOffice": {
         "usd": 378000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$378 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$378 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $378,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 378000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -35008,12 +35105,13 @@
       },
       "boxOffice": {
         "usd": 629400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$629.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$629.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $629,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Hancock_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 629400000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35077,12 +35175,13 @@
       },
       "boxOffice": {
         "usd": 70000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$70 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$70 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $70,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Departures_(2008_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 70000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -35227,12 +35326,13 @@
       },
       "boxOffice": {
         "usd": 22108789,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：US$22,108,789；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：US$22,108,789；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $22,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Ip_Man_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 22000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35362,12 +35462,13 @@
       },
       "boxOffice": {
         "usd": 791200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$791.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$791.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $791,200,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/2012_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 791200000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35435,12 +35536,13 @@
       },
       "boxOffice": {
         "usd": 2924000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$2.924 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$2.924 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $2,900,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 2900000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -35599,12 +35701,13 @@
       },
       "boxOffice": {
         "usd": 836500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$836.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$836.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $836,500,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Transformers%3A_Revenge_of_the_Fallen",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 836500000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35669,12 +35772,13 @@
       },
       "boxOffice": {
         "usd": 886700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$886.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$886.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $886,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Ice_Age%3A_Dawn_of_the_Dinosaurs",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 886700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35739,12 +35843,13 @@
       },
       "boxOffice": {
         "usd": 524000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$524 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$524 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $525,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(2009_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 525000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35815,12 +35920,13 @@
       },
       "boxOffice": {
         "usd": 210800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$210.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$210.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $210,819,611；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/District_9",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 210819611,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -35885,12 +35991,13 @@
       },
       "boxOffice": {
         "usd": 735000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$735 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$735 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $735,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Up_(2009_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 735000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -35970,13 +36077,15 @@
         "checkedAt": null
       },
       "boxOffice": {
-        "usd": 1008000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.008 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "usd": 941000000,
+        "scope": "全球累计（影片资料页正文）",
+        "note": "离线复核资料页导语明确写明全球（worldwide）票房约 $941,000,000；信息框有不同金额，当前采用正文明确给出的全球金额。保留原信息框金额于 previousWikipediaUSD 供追溯。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "previousWikipediaUSD": 1008000000,
+        "wikiWorldwideReportedUSD": 941000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -36040,12 +36149,13 @@
       },
       "boxOffice": {
         "usd": 47100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$47.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$47.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $46,187,511；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 46187511,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -36182,12 +36292,13 @@
       },
       "boxOffice": {
         "usd": 34000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$34 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$34 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $34,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Secret_in_Their_Eyes",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 34000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -36325,12 +36436,13 @@
       },
       "boxOffice": {
         "usd": 712000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$712 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$712 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $712,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga%3A_New_Moon",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 712000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -36611,12 +36723,13 @@
       },
       "boxOffice": {
         "usd": 321500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$321.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$321.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $321,500,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Inglourious_Basterds",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 321500000,
+        "comparable": true
       },
       "awards": [
         {
@@ -36754,12 +36867,13 @@
       },
       "boxOffice": {
         "usd": 9800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$9.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$9.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $9,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Moon_(2009_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 9800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -36891,12 +37005,13 @@
       },
       "boxOffice": {
         "usd": 1025000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.025 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.025 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,025,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1025000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -36971,12 +37086,13 @@
       },
       "boxOffice": {
         "usd": 839000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$839 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$839 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $839,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Inception",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 839000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -37130,12 +37246,13 @@
       },
       "boxOffice": {
         "usd": 623900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$623.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$623.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $623,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Iron_Man_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 623900000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37198,12 +37315,13 @@
       },
       "boxOffice": {
         "usd": 45200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$45.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$45.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $45,203,103；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Confessions_(2010_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 45203103,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37272,12 +37390,13 @@
       },
       "boxOffice": {
         "usd": 756200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$756.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$756.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $752,600,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Shrek_Forever_After",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 752600000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37424,13 +37543,15 @@
         "checkedAt": "2026-11-01"
       },
       "boxOffice": {
-        "usd": 1061000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.061 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "usd": 960000000,
+        "scope": "全球累计（影片资料页正文）",
+        "note": "离线复核资料页导语明确写明全球（worldwide）票房约 $960,000,000；信息框有不同金额，当前采用正文明确给出的全球金额。保留原信息框金额于 previousWikipediaUSD 供追溯。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "previousWikipediaUSD": 1061000000,
+        "wikiWorldwideReportedUSD": 960000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37497,12 +37618,13 @@
       },
       "boxOffice": {
         "usd": 332100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$332.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$332.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $332,100,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Black_Swan_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 332100000,
+        "comparable": true
       },
       "awards": [
         {
@@ -37576,12 +37698,13 @@
       },
       "boxOffice": {
         "usd": 16000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$16 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$16 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $16,038,343；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Incendies",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 16038343,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37645,12 +37768,13 @@
       },
       "boxOffice": {
         "usd": 294800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$294.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$294.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $295,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 295000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37717,12 +37841,13 @@
       },
       "boxOffice": {
         "usd": 592500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$592.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$592.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $592,500,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Tangled",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 592500000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -37790,12 +37915,13 @@
       },
       "boxOffice": {
         "usd": 699000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$699 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$699 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $699,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga%3A_Eclipse",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 699000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38001,12 +38127,13 @@
       },
       "boxOffice": {
         "usd": 140000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：US$117.5 million (China) US$140 million (worldwide)；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：US$117.5 million (China) US$140 million (worldwide)；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $140,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Let_the_Bullets_Fly",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 140000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38073,12 +38200,13 @@
       },
       "boxOffice": {
         "usd": 225000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$225 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$225 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $225,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Social_Network",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 225000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -38156,12 +38284,13 @@
       },
       "boxOffice": {
         "usd": 544200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$544.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$544.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $544,200,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Despicable_Me_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 544200000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38367,12 +38496,13 @@
       },
       "boxOffice": {
         "usd": 1067000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.067 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.067 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,067,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Toy_Story_3",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1067000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -38455,12 +38585,13 @@
       },
       "boxOffice": {
         "usd": 494900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$494.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$494.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $494,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 494900000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38532,12 +38663,13 @@
       },
       "boxOffice": {
         "usd": 1124000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.124 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.124 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,124,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Transformers%3A_Dark_of_the_Moon",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1124000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38675,12 +38807,13 @@
       },
       "boxOffice": {
         "usd": 694700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$694.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$694.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $694,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_%E2%80%93_Ghost_Protocol",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 694700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38748,12 +38881,13 @@
       },
       "boxOffice": {
         "usd": 666000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$666 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$666 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $666,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 666000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38819,12 +38953,13 @@
       },
       "boxOffice": {
         "usd": 1380000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.380 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.380 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,342,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1342000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38892,12 +39027,13 @@
       },
       "boxOffice": {
         "usd": 1046000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.046 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.046 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,045,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_On_Stranger_Tides",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1045000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -38964,12 +39100,13 @@
       },
       "boxOffice": {
         "usd": 564000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$564 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$564 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $564,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Smurfs_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 564000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -39038,12 +39175,13 @@
       },
       "boxOffice": {
         "usd": 732000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$732 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$732 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $732,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga%3A_Breaking_Dawn_%E2%80%93_Part_1",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 732000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -39311,12 +39449,13 @@
       },
       "boxOffice": {
         "usd": 630000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$630 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$630 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $630,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Fast_Five",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 630000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -39381,12 +39520,13 @@
       },
       "boxOffice": {
         "usd": 586800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$586.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$586.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $586,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hangover_Part_II",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 586800000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -39518,12 +39658,13 @@
       },
       "boxOffice": {
         "usd": 81400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$81.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$81.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $81,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Drive_(2011_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 81400000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -39587,12 +39728,13 @@
       },
       "boxOffice": {
         "usd": 151700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$151.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$151.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $151,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Midnight_in_Paris",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 151000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -39660,12 +39802,13 @@
       },
       "boxOffice": {
         "usd": 24400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$24.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$24.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $24,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/A_Separation",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 24000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -39740,12 +39883,13 @@
       },
       "boxOffice": {
         "usd": 133400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$133.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$133.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $133,432,856；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Artist_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 133432856,
+        "comparable": true
       },
       "awards": [
         {
@@ -39832,12 +39976,13 @@
       },
       "boxOffice": {
         "usd": 185800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$185.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$185.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $185,770,160；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Hugo_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 185770160,
+        "comparable": true
       },
       "awards": [
         {
@@ -39922,12 +40067,13 @@
       },
       "boxOffice": {
         "usd": 177600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$177.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$177.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $177,584,879；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/War_Horse_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 177584879,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -39991,12 +40137,13 @@
       },
       "boxOffice": {
         "usd": 1109000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.109 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.109 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,100,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Skyfall",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1100000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -40073,12 +40220,13 @@
       },
       "boxOffice": {
         "usd": 36800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$36.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$36.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $36,784,044；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Amour_(2012_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 36784044,
+        "comparable": true
       },
       "awards": [
         {
@@ -40149,12 +40297,13 @@
       },
       "boxOffice": {
         "usd": 442800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$442.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$442.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $442,800,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 442800000,
+        "comparable": true
       },
       "awards": [
         {
@@ -40223,12 +40372,13 @@
       },
       "boxOffice": {
         "usd": 449800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$449.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$449.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $449,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Django_Unchained",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 449000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -40308,12 +40458,13 @@
       },
       "boxOffice": {
         "usd": 1085000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.085 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.085 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,085,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1085000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -40384,12 +40535,13 @@
       },
       "boxOffice": {
         "usd": 877000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$877 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$877 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $877,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Ice_Age%3A_Continental_Drift",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 877000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -40453,12 +40605,13 @@
       },
       "boxOffice": {
         "usd": 758700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$758.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$758.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $758,700,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 758700000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -40526,12 +40679,13 @@
       },
       "boxOffice": {
         "usd": 1520000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.520 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.520 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,500,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1500000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -40598,12 +40752,13 @@
       },
       "boxOffice": {
         "usd": 1017000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.017 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.017 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,017,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hobbit%3A_An_Unexpected_Journey",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1017000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -40668,12 +40823,13 @@
       },
       "boxOffice": {
         "usd": 695200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$695.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$695.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $695,200,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 695200000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -40955,12 +41111,13 @@
       },
       "boxOffice": {
         "usd": 747000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$747 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$747 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $747,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Madagascar_3%3A_Europe's_Most_Wanted",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 747000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -41029,12 +41186,13 @@
       },
       "boxOffice": {
         "usd": 868000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$868 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$868 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $868,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga%3A_Breaking_Dawn_%E2%80%93_Part_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 868000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -41103,12 +41261,13 @@
       },
       "boxOffice": {
         "usd": 609000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$609 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$609 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $609,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 609000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -41262,12 +41421,13 @@
       },
       "boxOffice": {
         "usd": 232300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$232.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$232.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $232,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Argo_(2012_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 232000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -41344,12 +41504,13 @@
       },
       "boxOffice": {
         "usd": 236400000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$236.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$236.4 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $236,400,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 236400000,
+        "comparable": true
       },
       "awards": [
         {
@@ -41418,12 +41579,13 @@
       },
       "boxOffice": {
         "usd": 496500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$496.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$496.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $496,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Wreck-It_Ralph",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 496000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -41552,12 +41714,13 @@
       },
       "boxOffice": {
         "usd": 19500000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$19.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$19.5 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $19,492,879；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Blue_Is_the_Warmest_Colour",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 19492879,
+        "comparable": true
       },
       "awards": [
         {
@@ -41624,12 +41787,13 @@
       },
       "boxOffice": {
         "usd": 23300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$23.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$23.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $23,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Before_Midnight",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 23000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -41770,12 +41934,13 @@
       },
       "boxOffice": {
         "usd": 1280000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.280 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.280 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,280,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1280000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -41858,12 +42023,13 @@
       },
       "boxOffice": {
         "usd": 670100000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$670.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$670.1 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $670,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Man_of_Steel_(film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 670000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -41929,12 +42095,13 @@
       },
       "boxOffice": {
         "usd": 55000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$55 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$55 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $55,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Dallas_Buyers_Club",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 55000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -42014,12 +42181,13 @@
       },
       "boxOffice": {
         "usd": 723200000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$723.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$723.2 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $723,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Gravity_(2013_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 723000000,
+        "comparable": true
       },
       "awards": [
         {
@@ -42115,12 +42283,13 @@
       },
       "boxOffice": {
         "usd": 1215000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$1.215 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$1.215 billion；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $1,215,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Iron_Man_3",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 1215000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42187,12 +42356,13 @@
       },
       "boxOffice": {
         "usd": 743600000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$743.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$743.6 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $743,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Monsters_University",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 743000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42325,12 +42495,13 @@
       },
       "boxOffice": {
         "usd": 407000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$407 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$407 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $407,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 407000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42394,12 +42565,13 @@
       },
       "boxOffice": {
         "usd": 959000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$959 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$959 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $959,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hobbit%3A_The_Desolation_of_Smaug",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 959000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42468,12 +42640,13 @@
       },
       "boxOffice": {
         "usd": 869900000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$869.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$869.9 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $869,900,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Catching_Fire",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 869900000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42540,12 +42713,13 @@
       },
       "boxOffice": {
         "usd": 644800000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$644.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$644.8 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $644,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Thor%3A_The_Dark_World",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 644000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42742,12 +42916,13 @@
       },
       "boxOffice": {
         "usd": 971000000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$971 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$971 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $971,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Despicable_Me_2",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 971000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42883,12 +43058,13 @@
       },
       "boxOffice": {
         "usd": 788700000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$788.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$788.7 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $789,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Fast_%26_Furious_6",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 789000000,
+        "comparable": true
       },
       "awards": [],
       "reasons": [
@@ -42955,12 +43131,13 @@
       },
       "boxOffice": {
         "usd": 48300000,
-        "scope": "来源所载累计（全球口径待复核）",
-        "note": "Wikipedia 信息框：$48.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 本金额来自所链接的维基信息框；尚未逐片独立确认其全球统计覆盖，不能视为已完成全球票房口径审计。",
+        "scope": "全球累计（影片资料页）",
+        "note": "Wikipedia 信息框：$48.3 million；保留原币种，美元值只取来源明确标注的名义美元，未作通胀调整。 已离线复核资料页正文，明确出现全球（worldwide）票房约 $48,000,000；信息框与正文可能因四舍五入、重映和统计时点略有差异。该项为资料页所报全球金额，未完成独立 Mojo 逐片复核。",
         "url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
         "checkedAt": "2026-11-01",
-        "verification": "全球口径待复核",
-        "comparable": false
+        "verification": "影片资料正文明确全球口径",
+        "wikiWorldwideReportedUSD": 48000000,
+        "comparable": true
       },
       "awards": [
         {
