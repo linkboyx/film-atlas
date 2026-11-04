@@ -1,0 +1,7 @@
+{
+  "githubUsername": "填写你的 GitHub 用户名（无需密码）",
+  "repositoryName": "film-atlas",
+  "defaultBranch": "main",
+  "visibility": "public",
+  "note": "可复制为 deployment.local.json 后填写，仅用于记录目标；工作流不读取此文件。不要填写密码、Token 或验证码。"
+}

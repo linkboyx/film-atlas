@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+const url=new URL('./dist/app.js',import.meta.url);let s=await fs.readFile(url,'utf8');
+if(!s.includes('const coverLink'))s=s.replace("const list =", "const coverLink = u => /^(?:posters\\/tt\\d+\\.(?:jpe?g|png|webp)$|https?:\\/\\/)/i.test(u || '') ? safe(u) : '';\nconst list =");
+s=s.replace('src="${link(f.poster)}"','src="${coverLink(f.poster)}"');
+s=s.replace('const pageSize = 24;','const pageSize = 48;');
+s=s.replace("score(f.imdb)>=8&&f.imdb?.votes>=50000","score(f.imdb)>=7&&f.imdb?.votes>=5000").replace("score(f.douban)>=8.3&&f.douban?.votes>=50000","score(f.douban)>=7.5&&f.douban?.votes>=5000");
+s=s.replace('IMDb ≥ 8.0 且至少 5 万人评价，或豆瓣 ≥ 8.3 且至少 5 万人评价','IMDb ≥ 7.0 且至少 5,000 人评价，或豆瓣 ≥ 7.5 且至少 5,000 人评价');
+s=s.replace('覆盖 1988—2026 年，目标每年约 20–30 部，兼顾商业影响力、长期口碑、电影节与各地区作品。','覆盖 1988—2026 年，已取消每年收录数量上限，采用票房、评分、重要奖项三类条件的并集，兼顾商业影响力、长期口碑、电影节与各地区作品。');
+s=s.replace('这是一份人工选择并核对公开来源的扩展片库，不是所有国家的电影全集，也不是完整年度票房排名。','原版 886 部采用每年 20–30 部的人工精选，存在明显遗漏。新版按公开数据批量扩充；评分和票房候选先核实影片身份、年份再入库。各数据来源仍有覆盖缺口，不等于全世界所有达标影片都已收齐。');
+s=s.replace('<h3>暂定收录标准</h3>','<h3>当前收录标准（满足任一条）</h3>');
+s=s.replace('票房代表：参考上映年份的全球票房领先作品，兼顾当地市场的重要影片。','票房代表：年度全球票房榜前 100。保留榜单年份和原始排名；影片按首次首映年份归档，重映条目不重复计数。');
+s=s.replace('口碑与荣誉：参考 IMDb / 豆瓣高分作品、奥斯卡及国际电影节重要获奖作品，补充具有持续影响的电影。','评分门槛：IMDb ≥ 7.0，或豆瓣 ≥ 7.5；达到门槛的平台至少有 5,000 人评价。两平台评分不要求同时达标。');
+s=s.replace('地区代表：补充华语、日本、韩国、印度及欧洲等地区作品。入选理由是编辑标签，不等同于已通过固定分数或票房门槛。','奖项门槛：奥斯卡及戛纳、柏林、威尼斯等重要电影奖项获奖作品；原精选影片保留。新增批量记录保存入选依据，未取得的导演、演员、票房或奖项明确标为待补核。');
+s=s.replace('目标每年 20–30 部。下列评分和票房数量仅统计已核实数值','已取消每年数量上限。下列评分和票房数量仅统计已核实数值');
+await fs.writeFile(url,s);
