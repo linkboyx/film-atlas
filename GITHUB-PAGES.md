@@ -2,6 +2,8 @@
 
 当前网站为纯静态 HTML/CSS/JavaScript，`dist/` 约 328 MiB，包含 8,079 部影片和 8,076 张本地海报，可部署到 GitHub Pages。相对路径支持 `https://用户名.github.io/film-atlas/` 这样的仓库子路径。
 
+已于 2026-11-03（America/Phoenix）完成首次部署：[访问网站](https://linkboyx.github.io/film-atlas/)。[首次运行](https://github.com/linkboyx/film-atlas/actions/runs/41749425907)已通过测试、IMDb 更新、片库校验和 Pages 发布。仓库为 `linkboyx/film-atlas`，默认分支 `main`，Pages 使用 GitHub Actions，HTTPS 已启用。下方登录与启用步骤用于重新配置；当前无需重复创建仓库。
+
 ## 登录与仓库
 
 1. 在 [GitHub 官方登录页](https://github.com/login)登录，或通过 Codex 的 GitHub 集成完成授权。网页登录本身不会给本地命令行或 Codex 集成授权。

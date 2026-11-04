@@ -31,4 +31,4 @@
 
 ## GitHub Pages 与定时更新
 
-已准备 `.github/workflows/pages.yml`，支持推送发布、手动发布和每天更新已有影片的 IMDb 评分后发布；上传授权与 Pages 设置仍需完成。详细步骤见 [GITHUB-PAGES.md](GITHUB-PAGES.md)。无需保存 GitHub 密码；目标仓库信息可填写在 `deployment.local.json`（参考 `deployment.example.json`）。豆瓣、票房、奖项和新增影片尚未接入自动更新。
+网站已上线：[银幕年鉴](https://linkboyx.github.io/film-atlas/)。`.github/workflows/pages.yml` 支持推送发布、手动发布，以及每天北京时间 22:23（Phoenix 时间 07:23）更新已有影片的 IMDb 评分后发布。首次云端更新、完整片库校验和 Pages 发布均已成功。运行记录见 [GitHub Actions](https://github.com/linkboyx/film-atlas/actions)。详细步骤见 [GITHUB-PAGES.md](GITHUB-PAGES.md)。无需保存 GitHub 密码；目标仓库信息可填写在 `deployment.local.json`（参考 `deployment.example.json`）。豆瓣、票房、奖项和新增影片尚未接入自动更新。
